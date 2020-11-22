@@ -156,6 +156,7 @@ implement! {
     SVG: "svg",
     Symbol: "symbol",
     Text: "text",
+    TSpan: "tspan",
     TextPath: "textPath",
     Title: "title",
     Use: "use",
